@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NorthPolman
 - 👀 I’m interested in life, the universe and everything
-- 🌱 I’m currently learning Javascript (vanilla-ice!)
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on nothing atm 
 - 📫 How to reach me, thats the question
